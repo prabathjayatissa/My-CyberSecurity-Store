@@ -10,3 +10,4 @@ RULE 9 / Assume that the person you are listening to might know something you do
 RULE 10 / Be precise in your speech
 RULE 11 / Do not bother children when they are skateboarding
 RULE 12 / Pet a cat when you encounter one on the street
+
